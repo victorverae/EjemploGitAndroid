@@ -1,4 +1,4 @@
 EjemploGitAndroid
 =================
 
-Proyecto para realizar ejercicios con Git
+Proyecto para realizar ejercicios con Git.
